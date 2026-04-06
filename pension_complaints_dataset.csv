@@ -1,0 +1,251 @@
+Complaint_ID,Policy_Number,Responsible_Team,Handling_Team,Complainant_Type,Root_Cause
+1,RQ617443,Service First,Service First,Policy Holder,Misinformation
+2,SG431353,Service First,Drawdown,Servicing Agent,Poor Communication
+3,PT935208,Workplace Pension,Annuity,Lawyer,Poor Communication
+4,HA671389,Service First,Workplace Pension,Financial Adviser,Poor Communication
+5,ND328070,Service First,Annuity,Policy Holder,Poor Communication
+6,12345678,Service First,Service First,Lawyer,Poor Communication
+7,GD959480,Drawdown,Annuity,Attorney,Delayed Response
+8,ZB589617,Drawdown,Service First,Financial Adviser,Misinformation
+9,KG809060,Service First,Drawdown,Lawyer,Poor Communication
+10,PQ919081,Drawdown,Service First,Attorney,Delayed Response
+11,GN355259,service first,Drawdown,Financial Adviser,Poor Communication
+12,EH502355,Workplace Pension,Service First,Financial Adviser,Poor Communication
+13,ZQ853579,Service First,Drawdown,Attorney,Poor Communication
+14,FB572895,Drawdown,Annuity,Attorney,Delayed Response
+15,DG206667,Service First,Service First,Attorney,Delayed Response
+16,NF370256,Workplace Pension,Workplace Pension,Servicing Agent,Misinformation
+17,GD605790,Annuity,Service First,Lawyer,Poor Communication
+18,YE587634,Workplace Pension,Workplace Pension,Lawyer,Poor Communication
+19,KR478981,Drawdown,Workplace Pension,Financial Adviser,Delayed Response
+20,SB000101,Workplace Pension,Service First,Attorney,Poor Communication
+21,DS343128,Workplace Pension,,Financial Adviser,Poor Communication
+22,EQ870594,Service First,Annuity,Lawyer,Poor Communication
+23,EA881914,Workplace Pension,Annuity,Policy Holder,Delayed Response
+24,AB567633,Annuity,Workplace Pension,Financial Adviser,Poor Communication
+25,JT964839,Service First,Drawdown,Policy Holder,Delayed Response
+26,SU951356,Drawdown,Drawdown,Financial Adviser,Poor Communication
+27,GR149779,Annuity,Workplace Pension,Servicing Agent,Poor Communication
+28,UH657462,Annuity,Workplace Pension,Policy Holder,Delayed Response
+29,SM216563,Workplace Pension,Workplace Pension,Policy Holder,Delayed Response
+30,LE178277,Workplace Pension,Service First,Lawyer,Poor Communication
+31,AB041628,Workplace Pension,Drawdown,PolicyHolder,Delayed Response
+32,QO203829,Service First,Workplace Pension,Servicing Agent,Delayed Response
+33,NR298896,Service First,Annuity,Financial Adviser,Delayed Response
+34,XW440127,Annuity,Workplace Pension,Lawyer,Misinformation
+35,ZW241070,Annuity,Service First,Financial Adviser,Misinformation
+36,BO527999,Workplace Pension,Annuity,Servicing Agent,Misinformation
+37,PM272374,Annuity,Drawdown,Lawyer,Misinformation
+38,AO747631,Workplace Pension,Workplace Pension,Financial Adviser,Misinformation
+39,OV574249,Annuity,Drawdown,Lawyer,Delayed Response
+40,VG970707,Workplace Pension,Annuity,Attorney,Delayed Response
+41,SE716954,Service First,Workplace Pension,Servicing Agent,Poor Comm
+42,NZ515110,Drawdown,Drawdown,Policy Holder,Poor Communication
+43,QL484067,Drawdown,Service First,Servicing Agent,Misinformation
+44,VY731079,Service First,Workplace Pension,Financial Adviser,Misinformation
+45,NP848044,Annuity,Annuity,Policy Holder,Misinformation
+46,YX979911,Service First,Drawdown,Policy Holder,Poor Communication
+47,ED237814,Drawdown,Service First,Servicing Agent,Misinformation
+48,QF743549,Drawdown,Workplace Pension,Servicing Agent,Poor Communication
+49,ZI285724,Annuity,Service First,Financial Adviser,Poor Communication
+50,HY433700,Service First,Annuity,Attorney,Poor Communication
+51,AB12,Workplace Pension,Workplace Pension,Policy Holder,Misinformation
+52,YC775114,Annuity,Annuity,Lawyer,Delayed Response
+53,ZQ806628,Workplace Pension,Annuity,Servicing Agent,Delayed Response
+54,VH219906,Service First,Annuity,Attorney,Poor Communication
+55,WP222044,Annuity,Annuity,Financial Adviser,Misinformation
+56,TS215903,Drawdown,Service First,Attorney,Poor Communication
+57,PY967206,Service First,Annuity,Attorney,Poor Communication
+58,OL099452,Drawdown,Drawdown,Financial Adviser,Misinformation
+59,CQ692454,Service First,Service First,Attorney,Poor Communication
+60,HF212886,Drawdown,Service First,Policy Holder,Poor Communication
+61,WL048337,Drawdown,Drawdown,Lawyer,Poor Communication
+62,UB496412,Annuity,Annuity,Policy Holder,Misinformation
+63,DI579863,Drawdown,Service First,Servicing Agent,Poor Communication
+64,GQ441736,Service First,Service First,Policy Holder,Delayed Response
+65,VG766810,Annuity,Drawdown,Servicing Agent,Misinformation
+66,OI794602,Annuity,Annuity,Policy Holder,Poor Communication
+67,IA382014,Service First,Workplace Pension,Lawyer,Poor Communication
+68,BM744826,Service First,Annuity,Policy Holder,Poor Communication
+69,AP430688,Service First,Annuity,Servicing Agent,Poor Communication
+70,CP613128,Annuity,Drawdown,Lawyer,Misinformation
+71,RD365248,Annuity,Workplace Pension,Financial Adviser,Misinformation
+72,KQ083499,Service First,Annuity,Attorney,Poor Communication
+73,GF714325,Drawdown,Annuity,Policy Holder,Poor Communication
+74,VA260495,Annuity,Workplace Pension,Financial Adviser,Misinformation
+75,AK463634,Annuity,Service First,Financial Adviser,Poor Communication
+76,NC406519,Service First,Drawdown,Policy Holder,Poor Communication
+77,CJ221667,Drawdown,Workplace Pension,Policy Holder,Delayed Response
+78,QL235763,Annuity,Service First,Attorney,Poor Communication
+79,LZ720750,Annuity,Service First,Lawyer,Poor Communication
+80,IF505062,Annuity,Service First,Financial Adviser,Poor Communication
+81,AG509900,Annuity,Drawdown,Lawyer,Misinformation
+82,XF659476,Service First,Workplace Pension,Policy Holder,Misinformation
+83,IJ236282,Service First,Workplace Pension,Policy Holder,Poor Communication
+84,OS603554,Workplace Pension,Annuity,Servicing Agent,Delayed Response
+85,OB672792,Drawdown,Service First,Attorney,Misinformation
+86,NU707203,Workplace Pension,Workplace Pension,Servicing Agent,Poor Communication
+87,HA738830,Workplace Pension,Service First,Lawyer,Poor Communication
+88,RT480931,Drawdown,Drawdown,Servicing Agent,Poor Communication
+89,LP208817,Workplace Pension,Drawdown,Servicing Agent,Poor Communication
+90,OT906766,Drawdown,Service First,Servicing Agent,Delayed Response
+91,LR674402,Workplace Pension,Annuity,Servicing Agent,Poor Communication
+92,CQ442683,Service First,Service First,Lawyer,Misinformation
+93,EZ461807,Annuity,Annuity,Policy Holder,Poor Communication
+94,PG540431,Drawdown,Service First,Financial Adviser,Poor Communication
+95,YN266994,Service First,Annuity,Financial Adviser,Delayed Response
+96,KG394994,Service First,Workplace Pension,Servicing Agent,Misinformation
+97,UO580135,Drawdown,Drawdown,Financial Adviser,Poor Communication
+98,IO035719,Service First,Annuity,Servicing Agent,Poor Communication
+99,SE330781,Drawdown,Annuity,Policy Holder,Delayed Response
+100,QL990081,Drawdown,Drawdown,Policy Holder,Delayed Response
+101,IW793938,Drawdown,Service First,Financial Adviser,Misinformation
+102,HX847361,Annuity,Service First,Attorney,Delayed Response
+103,QT563443,Service First,Annuity,Servicing Agent,Misinformation
+104,SI277949,Drawdown,Drawdown,Attorney,Poor Communication
+105,ED602481,Annuity,Service First,Lawyer,Poor Communication
+106,TO353951,Drawdown,Workplace Pension,Lawyer,Poor Communication
+107,TJ457602,Workplace Pension,Workplace Pension,Servicing Agent,Delayed Response
+108,YG070922,Workplace Pension,Workplace Pension,Attorney,Poor Communication
+109,TC294736,Workplace Pension,Workplace Pension,Financial Adviser,Misinformation
+110,MW375587,Workplace Pension,Workplace Pension,Lawyer,Poor Communication
+111,RB714724,Annuity,Annuity,Lawyer,Delayed Response
+112,ZW848161,Service First,Drawdown,Policy Holder,Poor Communication
+113,RT797373,Drawdown,Drawdown,Attorney,Poor Communication
+114,PV497246,Annuity,Workplace Pension,Policy Holder,Delayed Response
+115,KF100142,Drawdown,Workplace Pension,Attorney,Misinformation
+116,MA878416,Annuity,Drawdown,Lawyer,Poor Communication
+117,UJ932740,Service First,Annuity,Attorney,Poor Communication
+118,XM540937,Service First,Service First,Lawyer,Poor Communication
+119,YH896601,Workplace Pension,Annuity,Lawyer,Misinformation
+120,JN297850,Annuity,Service First,Financial Adviser,Misinformation
+121,LG165005,Drawdown,Service First,Lawyer,Delayed Response
+122,CG371797,Service First,Annuity,Servicing Agent,Poor Communication
+123,NY055534,Drawdown,Workplace Pension,Attorney,Poor Communication
+124,TL488841,Drawdown,Workplace Pension,Servicing Agent,Poor Communication
+125,QF800500,Annuity,Service First,Lawyer,Poor Communication
+126,UN869551,Annuity,Drawdown,Attorney,Delayed Response
+127,FE290952,Annuity,Service First,Servicing Agent,Poor Communication
+128,GZ172320,Workplace Pension,Workplace Pension,Policy Holder,Misinformation
+129,JL713985,Workplace Pension,Service First,Servicing Agent,Misinformation
+130,GQ439082,Service First,Drawdown,Attorney,Poor Communication
+131,LD604134,Annuity,Annuity,Attorney,Poor Communication
+132,VG214405,Workplace Pension,Service First,Financial Adviser,Misinformation
+133,ED671843,Annuity,Annuity,Policy Holder,Misinformation
+134,UR807117,Annuity,Service First,Policy Holder,Misinformation
+135,CO372385,Annuity,Workplace Pension,Attorney,Poor Communication
+136,PM593580,Service First,Annuity,Policy Holder,Misinformation
+137,VW537254,Annuity,Service First,Attorney,Misinformation
+138,YO564067,Workplace Pension,Annuity,Policy Holder,Poor Communication
+139,GW757890,Workplace Pension,Annuity,Attorney,Poor Communication
+140,GI391188,Annuity,Workplace Pension,Policy Holder,Misinformation
+141,OC994989,Annuity,Workplace Pension,Attorney,Misinformation
+142,DE756480,Drawdown,Drawdown,Servicing Agent,Misinformation
+143,VW904328,Annuity,Annuity,Lawyer,Delayed Response
+144,AR181914,Service First,Service First,Servicing Agent,Poor Communication
+145,GH010254,Drawdown,Workplace Pension,Lawyer,Delayed Response
+146,RZ171933,Drawdown,Workplace Pension,Financial Adviser,Poor Communication
+147,SH570579,Workplace Pension,Annuity,Financial Adviser,Poor Communication
+148,RT894593,Workplace Pension,Service First,Lawyer,Misinformation
+149,KC199293,Annuity,Annuity,Policy Holder,Poor Communication
+150,PJ626072,Service First,Drawdown,Attorney,Misinformation
+151,SZ616108,Workplace Pension,Service First,Attorney,Poor Communication
+152,OE762289,Workplace Pension,Service First,Attorney,Misinformation
+153,BQ141612,Drawdown,Drawdown,Financial Adviser,Delayed Response
+154,IV974168,Workplace Pension,Drawdown,Policy Holder,Poor Communication
+155,BD865539,Annuity,Service First,Lawyer,Misinformation
+156,TD244718,Drawdown,Service First,Attorney,Poor Communication
+157,MT378648,Workplace Pension,Workplace Pension,Financial Adviser,Misinformation
+158,VB968050,Workplace Pension,Workplace Pension,Servicing Agent,Poor Communication
+159,LL867123,Drawdown,Service First,Attorney,Misinformation
+160,IU706536,Annuity,Workplace Pension,Servicing Agent,Misinformation
+161,RM589729,Service First,Workplace Pension,Policy Holder,Misinformation
+162,FE208515,Workplace Pension,Service First,Lawyer,Delayed Response
+163,XU824441,Drawdown,Service First,Policy Holder,Delayed Response
+164,TB155091,Workplace Pension,Drawdown,Attorney,Poor Communication
+165,HU246941,Service First,Annuity,Attorney,Misinformation
+166,EU722127,Drawdown,Drawdown,Financial Adviser,Misinformation
+167,VC170401,Service First,Drawdown,Policy Holder,Misinformation
+168,AD655320,Service First,Workplace Pension,Financial Adviser,Misinformation
+169,ZM681805,Workplace Pension,Service First,Servicing Agent,Misinformation
+170,LC189122,Workplace Pension,Annuity,Policy Holder,Misinformation
+171,HU675612,Service First,Drawdown,Policy Holder,Poor Communication
+172,DG195064,Annuity,Service First,Lawyer,Poor Communication
+173,HK993842,Annuity,Service First,Attorney,Misinformation
+174,WE985843,Annuity,Service First,Lawyer,Poor Communication
+175,ZT154853,Service First,Service First,Servicing Agent,Poor Communication
+176,OG480003,Workplace Pension,Service First,Servicing Agent,Misinformation
+177,NL520300,Service First,Drawdown,Attorney,Poor Communication
+178,JX874067,Annuity,Workplace Pension,Policy Holder,Poor Communication
+179,ED032962,Annuity,Annuity,Servicing Agent,Misinformation
+180,AX285217,Workplace Pension,Workplace Pension,Lawyer,Misinformation
+181,FI717069,Workplace Pension,Drawdown,Attorney,Misinformation
+182,ZB988535,Drawdown,Annuity,Financial Adviser,Misinformation
+183,BJ119736,Annuity,Service First,Servicing Agent,Poor Communication
+184,YX449923,Workplace Pension,Service First,Servicing Agent,Poor Communication
+185,CN874014,Drawdown,Service First,Servicing Agent,Misinformation
+186,UU683708,Workplace Pension,Service First,Servicing Agent,Misinformation
+187,UT900370,Annuity,Annuity,Lawyer,Poor Communication
+188,XI574645,Drawdown,Drawdown,Lawyer,Poor Communication
+189,TE543786,Annuity,Drawdown,Servicing Agent,Poor Communication
+190,CF437580,Workplace Pension,Annuity,Policy Holder,Misinformation
+191,LG440016,Annuity,Annuity,Servicing Agent,Delayed Response
+192,DZ623271,Drawdown,Annuity,Policy Holder,Misinformation
+193,AM723672,Service First,Service First,Attorney,Misinformation
+194,RO004785,Drawdown,Workplace Pension,Servicing Agent,Poor Communication
+195,QH971118,Workplace Pension,Drawdown,Lawyer,Poor Communication
+196,LA622634,Annuity,Drawdown,Policy Holder,Misinformation
+197,WI624183,Workplace Pension,Drawdown,Lawyer,Delayed Response
+198,UR913492,Annuity,Annuity,Attorney,Poor Communication
+199,KM579791,Annuity,Annuity,Attorney,Delayed Response
+200,SC363745,Service First,Annuity,Lawyer,Delayed Response
+201,GZ565846,Annuity,Workplace Pension,Lawyer,Poor Communication
+202,HK537048,Drawdown,Annuity,Financial Adviser,Poor Communication
+203,QQ739037,Workplace Pension,Drawdown,Lawyer,Poor Communication
+204,WA478604,Annuity,Drawdown,Lawyer,Poor Communication
+205,RW628412,Service First,Annuity,Lawyer,Misinformation
+206,WF322192,Workplace Pension,Drawdown,Attorney,Poor Communication
+207,WV264426,Drawdown,Workplace Pension,Financial Adviser,Misinformation
+208,NA453368,Annuity,Service First,Lawyer,Poor Communication
+209,EW228809,Drawdown,Annuity,Servicing Agent,Misinformation
+210,UF705825,Annuity,Annuity,Policy Holder,Delayed Response
+211,FL043685,Workplace Pension,Drawdown,Attorney,Poor Communication
+212,DY330268,Service First,Annuity,Financial Adviser,Misinformation
+213,WT911063,Annuity,Annuity,Policy Holder,Poor Communication
+214,CI507793,Service First,Service First,Financial Adviser,Poor Communication
+215,DC927898,Drawdown,Drawdown,Policy Holder,Misinformation
+216,EN023498,Drawdown,Drawdown,Attorney,Misinformation
+217,HG855456,Service First,Service First,Financial Adviser,Delayed Response
+218,BG949429,Annuity,Service First,Servicing Agent,Misinformation
+219,FS268627,Drawdown,Workplace Pension,Lawyer,Misinformation
+220,ME301011,Annuity,Service First,Servicing Agent,Poor Communication
+221,OZ304972,Drawdown,Service First,Attorney,Delayed Response
+222,JH299754,Service First,Workplace Pension,Servicing Agent,Misinformation
+223,NC766448,Annuity,Annuity,Servicing Agent,Delayed Response
+224,KF370629,Workplace Pension,Annuity,Lawyer,Poor Communication
+225,YG247370,Workplace Pension,Drawdown,Lawyer,Misinformation
+226,CM010611,Service First,Service First,Lawyer,Poor Communication
+227,WG596193,Workplace Pension,Annuity,Attorney,Poor Communication
+228,CL311991,Workplace Pension,Annuity,Attorney,Delayed Response
+229,NH775886,Annuity,Annuity,Lawyer,Poor Communication
+230,QX562017,Service First,Drawdown,Servicing Agent,Poor Communication
+231,TN622554,Workplace Pension,Service First,Financial Adviser,Poor Communication
+232,CI009795,Service First,Service First,Financial Adviser,Poor Communication
+233,MS171617,Annuity,Workplace Pension,Lawyer,Poor Communication
+234,GT125653,Service First,Service First,Servicing Agent,Poor Communication
+235,WE610670,Service First,Service First,Attorney,Poor Communication
+236,KR079835,Annuity,Workplace Pension,Lawyer,Poor Communication
+237,SN919035,Drawdown,Annuity,Servicing Agent,Poor Communication
+238,DP246990,Service First,Annuity,Servicing Agent,Misinformation
+239,LH990811,Workplace Pension,Annuity,Lawyer,Poor Communication
+240,BF289611,Service First,Workplace Pension,Servicing Agent,Poor Communication
+241,CG355964,Service First,Workplace Pension,Servicing Agent,Misinformation
+242,AG154843,Workplace Pension,Service First,Financial Adviser,Poor Communication
+243,EA641836,Annuity,Workplace Pension,Attorney,Poor Communication
+244,RB554341,Workplace Pension,Workplace Pension,Lawyer,Poor Communication
+245,GI050203,Annuity,Drawdown,Lawyer,Poor Communication
+246,OK338394,Annuity,Workplace Pension,Financial Adviser,Poor Communication
+247,KO644546,Drawdown,Annuity,Servicing Agent,Delayed Response
+248,SS135786,Workplace Pension,Workplace Pension,Attorney,Misinformation
+249,ZO960533,Service First,Drawdown,Servicing Agent,Poor Communication
+250,NN690433,Annuity,Drawdown,Servicing Agent,Poor Communication
