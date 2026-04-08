@@ -19,4 +19,4 @@ Poor communication is the leading cause of complaints.
 - Data Analysis Techniques
 
 ## Author
-Your Name
+Olayinka Fawehinmi
