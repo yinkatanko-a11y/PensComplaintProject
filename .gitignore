@@ -1,0 +1,61 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.egg-info/
+.venv/
+venv/
+env/
+ENV/
+build/
+dist/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Secrets and credentials
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+*.p12
+*.pfx
+credentials.json
+credentials*.json
+secrets.json
+secrets*.json
+service-account*.json
+token*.json
+.streamlit/secrets.toml
+
+# Local databases and private/local data
+*.db
+*.sqlite
+*.sqlite3
+data/private/
+data/raw_private/
+*.private.csv
+*.private.xlsx
+*.secret.csv
+*.secret.xlsx
+
+# IDE / editor / OS
+.vscode/
+.idea/
+*.code-workspace
+.DS_Store
+Thumbs.db
+
+# Logs and temporary files
+*.log
+*.tmp
+*.bak
+tmp/
+temp/
+outputs/
+
+# Local machine / notebook exports
+*.local.csv
+*.local.xlsx
