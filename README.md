@@ -1,49 +1,102 @@
-# PensComplaintProject
+# Pension Complaints Data Analysis
 
-## Overview
-This project analyses customer complaints for a pension company and identifies root causes. It combines a cleaned CSV dataset with an interactive Jupyter notebook to reproduce the analysis reported in the accompanying PDF.
+> **Portfolio project | Pension Administration • Data Quality • Python • Excel • Business Insight**
+
+## Project overview
+
+This project analyses a synthetic pension-company complaints dataset to identify recurring root causes, operational hand-offs and opportunities to improve complaint resolution.
+
+It was designed to demonstrate how pension administration experience can be combined with **data analysis, data quality checks and business insight**.
+
+### Business questions
+
+- What are the main causes of pension complaints?
+- Which teams are associated with complaint hand-offs?
+- Where are communication and response processes creating avoidable issues?
+- What operational improvements could reduce complaints and improve first-time resolution?
+
+## Key findings
+
+- **Poor communication** represents approximately 51% of complaints.
+- **Misinformation** represents approximately 34%.
+- **Delayed responses** represent approximately 15%.
+- The analysis highlights complaint patterns associated with team hand-offs and unclear ownership.
+- A pilot improvement scenario in the project report records an approximately **31.6% reduction in complaints within one month**.
+
+> **Note:** These figures come from the project's synthetic/sample data and are not claims about any real pension provider.
+
+## Analysis workflow
+
+```text
+Raw/sample data
+      ↓
+Data validation & cleaning
+      ↓
+Exploratory analysis
+      ↓
+Root-cause analysis
+      ↓
+Team hand-off analysis
+      ↓
+Pivot tables & visualisations
+      ↓
+Business recommendations
+```
+
+## Tools & technologies
+
+| Area | Tools |
+|---|---|
+| Data analysis | Python, Pandas, NumPy |
+| Visualisation | Matplotlib, Seaborn |
+| Spreadsheet analysis | Microsoft Excel |
+| Analysis environment | Jupyter Notebook |
+| Business analysis | Root-cause analysis, KPI analysis, process improvement |
+
+## Repository contents
+
+| File | Purpose |
+|---|---|
+| `complaints_analysis.ipynb` | Reproducible Python analysis and visualisations |
+| `pension_complaints_dataset.csv` | Synthetic/sample complaint dataset |
+| `ComplaintAnalysis.xlsx` | Supporting Excel analysis and pivot tables |
+| `Report.pdf` | Detailed project report |
 
 ## Data dictionary
 
 | Column | Description |
 |---|---|
-| complaint_id | Unique identifier for each complaint |
-| policy_number | Identifier of the pension policy (alphanumeric string) |
-| responsible_team | Team originally responsible for the policy (e.g., Onboarding, Claims) |
-| handling_team | Team that handled the complaint |
-| complainant_type | Whether the complainant is an 'agent' (advisor/broker) or 'customer' |
-| root_cause | Categorised reason for the complaint (poor communication, misinformation, delayed response, etc.) |
-| resolved | Whether the complaint was closed (yes/no) |
-| resolution_time_days | Number of days taken to resolve the complaint |
+| `complaint_id` | Unique complaint identifier |
+| `policy_number` | Pension policy identifier |
+| `responsible_team` | Team originally responsible for the policy |
+| `handling_team` | Team that handled the complaint |
+| `complainant_type` | Customer or agent/adviser |
+| `root_cause` | Categorised complaint cause |
+| `resolved` | Whether the complaint was resolved |
+| `resolution_time_days` | Days taken to resolve the complaint |
 
-## Running the analysis
+## How to run
 
-1. Clone or download this repository.
-2. Ensure you have Python and Jupyter installed (or use [Anaconda](https://www.anaconda.com)).
+1. Clone the repository.
+2. Install the Python dependencies.
 3. Open `complaints_analysis.ipynb` in Jupyter Notebook or JupyterLab.
-4. Run all cells to load `pension_complaints_dataset.csv`, clean the data and generate the pivot tables and charts used in the report. The notebook outputs bar charts showing the frequency of each complaint cause and heatmaps illustrating hand‑offs between teams.
+4. Run the notebook from top to bottom.
 
-Alternatively, you can open the **Report.pdf** file for a narrative summary of the findings and recommendations.
+```bash
+pip install -r requirements.txt
+```
 
-## Key insights
+## Why this project matters
 
-- **Poor communication** accounts for ~51% of complaints; **misinformation** accounts for ~34%; **delayed responses** account for ~15%.
-- Complaints peak during hand‑offs between teams. Misinformation is driven by inconsistent messaging, while delays stem from unclear ownership.
-- A pilot implementation of the recommended improvements reduced complaints by approximately 31.6% within a month.
+This project demonstrates a practical combination of:
 
-## Recommendations
+**Pension domain knowledge + data quality + Python analysis + Excel + business recommendations.**
 
-- Improve team coordination through a shared customer relationship management (CRM) system.
-- Introduce standardised response templates and a knowledge base to minimise misinformation.
-- Monitor service level agreement (SLA) response times and empower teams to resolve issues at the first point of contact.
-
-## Files
-
-- `pension_complaints_dataset.csv` – cleaned dataset of customer complaints.
-- `complaints_analysis.ipynb` – reproducible analysis notebook generating pivot tables and visualisations.
-- `Report.pdf` – full project report.
-- `ComplaintAnalysis.xlsx` – original Excel file used for initial pivot table analysis (still included for reference).
+It is particularly relevant to roles involving **pension data, data quality, MI/reporting, pension administration, customer insight and business analysis**.
 
 ## Author
 
-Olayinka Fawehinmi
+**Olayinka Fawehinmi**  
+MSc Artificial Intelligence & Data Science | Pension Administration | Data Analysis
+
+[GitHub profile](https://github.com/yinkatanko-a11y)
